@@ -1,4 +1,4 @@
-##Vakantiehuis huren in Oostmahorn, Friesland
+## Vakantiehuis huren in Oostmahorn, Friesland
 
 **'t Lauwersmeer**
 
