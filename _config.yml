@@ -3,9 +3,7 @@ title: Ostmahorn
 description: Vakantiehuis huren in Friesland
 
 show_downloads: "false"
-darkmode: false
-// logo_url: ./logo.png # Either absolute or relative url
-// syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
+
 colors:
     gradient_left: "#155799"
     gradient_right: "#159957"
