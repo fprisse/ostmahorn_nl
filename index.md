@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+##Vakantiehuis huren in Oostmahorn, Friesland
 
-You can use the [editor on GitHub](https://github.com/fprisse/ostmahorn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**'t Lauwersmeer**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wilt u een huisje huren in Friesland voor een ontspannen vakantie aan het water? Dan is Oostmahorn precies wat u zoekt. Het ligt in het [Nationaal Park Lauwersmeer](https://www.np-lauwersmeer.nl/) in Noord-Oost Friesland. Watersporters, natuurliefhebbers en fietsers halen hun hart op bij het zien van zoveel natuurschoon. Rondom het natuurgebied liggen leuke dorpen en steden, zoals [Moddergat](http://www.paesens-moddergat.nl/), [Lauwersoog](https://lauwersoog.nl), [Zoutkamp](https://zoutkamp.net/) en [Dokkum](https://www.dokkum.nl/). De prachtige omgeving vormt een verbluffend decor tijdens een [wandel-](https://www.staatsbosbeheer.nl/natuurgebieden/lauwersmeer/routes) of [fietstocht](https://www.route.nl/fietsroute/540008/Rondje+Lauwersmeer+op+de+fiets). 
 
-### Markdown
+Ook aan te raden is om een dagje naar [Schiermonnikoog](https://www.vvvschiermonnikoog.nl/) te gaan, [de pont](https://www.wpd.nl/en/schiermonnikoog) vertrekt vlakbij.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**'t Huisje**
 
-```markdown
-Syntax highlighted code block
+Het huisje is smaakvol ingericht met authentiek hindelopen antiek, voorzien van verwarming en heerlijke bedden. Er zijn twee slaapkamers; één met tweepersoonsbed en één met twee éénpersoonsbedden. Er is een badkamer met een douche en er is een apart toilet. In het woongedeelte vindt u een zit- en eethoek, en een open keuken met vaatwasser. De openslaande deuren geven toegang tot het deels overdekte terras en de tuin.
 
-# Header 1
-## Header 2
-### Header 3
+Direct vanuit de tuin stapt u op uw privé aanlegsteiger. Heeft u zelf geen boot, dan kunt u open zeilboten bij [la Barca](https://www.paviljoenlabarca.nl/) huren. Deze ligt dan klaar als u aankomt. Voor een groter schip kunt u bij [Wadden in zicht](http://www.waddeninzicht.com/) terecht. De steiger is ook een heerlijke plek om lekker te zonnen, te zwemmen of om een hengel uit te gooien.
 
-- Bulleted
-- List
+Uw auto kan direct bij de het huisje geparkeerd worden en trailerbare boten kunnen te water worden gelaten. U kunt gebruikmaken van een klein roeibootje en de twee kano's die bij het huis horen. Voor veiligheidsmiddelen zoals zwemvest e.d. dient zelf zorg te worden gedragen.
 
-1. Numbered
-2. List
+Er is uiteraard snel en draadloos internet.
 
-**Bold** and _Italic_ and `Code` text
+**d' Omgeving**
 
-[Link](url) and ![Image](src)
-```
+Oostmahorn was een oude vestingplaats aan de lauwerszee. De haven is ooit gebouwd als werkhaven voor de aanleg van de dijk die van de lauwerszee het lauwersmeer maakte. Oostmahorn ligt op 9 km van dokkum, vlak bij Anjum en Lauwersoog. In Anjum zit een prima [supermarkt](https://www.supermarktanjum.nl/) en een prijswinnende [slager](https://www.slagerijmennohoekstra.nl/). In lauwersoog zit het [visrestaurant](https://ailand.nl/) van Jan en Barbera; waar het goed toeven is voor lekkerbekjes en leergierige kinderen.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Tarieven
 
-### Jekyll Themes
+**Wat 't kost**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fprisse/ostmahorn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+|                        |  Week  | Midweek | Weekend |
+| ---------------------- | :----: | :-----: | :-----: |
+|                        | za-za  | ma-vry | vrij-zo |
+| Juni, Juli en Augustus | €1,200 |  €900   |  €500   |
+| Rest van het jaar      |  €800  |  €600   |  €300   |
+|                        |        |         |         |
+| Aankomst               | 10:00  |  10:00  |  17:00  |
+| Vertrek                | 19:00  |  15:00  |  19:00  |
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Voor schoolvakanties zijn er aangepaste prijzen:
+
+|                        |  van:   |  tot:   |        |              |
+| ---------------------- | :-----: | :-----: | :----: | ------------ |
+| Voorjaar               | 19-feb. | 6-mrt.  | €1,200 | per Week     |
+| Goede Vrijdag en Pasen | 15-apr. | 18-apr. | €1,000 | voor 4 dagen |
+| Pinksteren             | 4-jun.  |  6-mei  |  €800  | voor 3 dagen |
+| Mei                    | 30-apr. |  8-mei  | €1,200 | per Week     |
+| Hemelvaart             | 26-mei  | 29-mei  | €1,000 | voor 4 dagen |
+| Herfst                 | 15-okt. | 30-okt. | €1,200 | per Week     |
+| Kerst en Nieuwjaar     | 19-dec. | 8-jan.  | €1,200 | per Week     |
