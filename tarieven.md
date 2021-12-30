@@ -1,4 +1,9 @@
+---
+layout: default
+title: Tarieven
+---
 # Tarieven
+
 
 **Wat 't kost**
 
