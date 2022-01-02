@@ -14,7 +14,7 @@ title: Tarieven
 | Rest van het jaar      |  €800  |  €600   |  €300   |
 |                        |        |         |         |
 | :clock10: Aankomst     | 10:00  |  10:00  |  17:00  |
-| :clock03: Vertrek      | 19:00  |  15:00  |  19:00  |
+| :clock3: Vertrek      | 19:00  |  15:00  |  19:00  |
 
 
 
