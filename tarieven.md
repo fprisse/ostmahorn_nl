@@ -13,8 +13,8 @@ title: Tarieven
 | Juni, Juli en Augustus | €1,200 |  €900   |  €500   |
 | Rest van het jaar      |  €800  |  €600   |  €300   |
 |                        |        |         |         |
-| Aankomst               | 10:00  |  10:00  |  17:00  |
-| Vertrek                | 19:00  |  15:00  |  19:00  |
+| :clock10: Aankomst     | 10:00  |  10:00  |  17:00  |
+| :clock03: Vertrek      | 19:00  |  15:00  |  19:00  |
 
 
 
