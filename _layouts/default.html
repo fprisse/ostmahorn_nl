@@ -17,7 +17,7 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
       <a href="{{site.url}}/Ostmahorn/" class="btn">Omgeving</a>
       <a href="{{site.url}}/Ostmahorn/huis" class="btn">'t Huisje</a>
