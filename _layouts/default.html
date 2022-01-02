@@ -11,24 +11,11 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-   
-  <!-- Matomo -->
-  <script>
-    var _paq = window._paq = window._paq || [];
-    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {
-      var u="//mat.prisse.nl/";
-      _paq.push(['setTrackerUrl', u+'matomo.php']);
-      _paq.push(['setSiteId', '1']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-    })();
-  </script>
-  <noscript><p><img src="//mat.prisse.nl/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-  <!-- End Matomo Code -->
     
+    <!-- Matomo Image Tracker-->
+    <img referrerpolicy="no-referrer-when-downgrade" src="http://mat.prisse.nl/matomo.php?idsite=1&amp;rec=1&amp;action_name=Vakantiehuis" style="border:0" alt="" />
+    <!-- End Matomo -->
+   
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
