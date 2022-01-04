@@ -24,7 +24,6 @@ Voor schoolvakanties zijn er aangepaste prijzen:
 | ----------------------- | :-----: | :-----: | :-----: | ------------ |
 | Voorjaar                | 19-feb. | 6-mrt.  | €1200  | per Week     |
 | Pasen                   | 15-apr. | 18-apr. | €1000  | voor 4 dagen |
-| Pinksteren              | 4-jun.  |  6-mei  |  €800   | voor 3 dagen |
 | Mei                     | 30-apr. |  8-mei  | €1200  | per Week     |
 | Hemelvaart              | 26-mei  | 29-mei  | €1000  | voor 4 dagen |
 | Herfst                  | 15-okt. | 30-okt. | €1200  | per Week     |
