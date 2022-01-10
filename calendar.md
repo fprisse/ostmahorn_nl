@@ -3,6 +3,7 @@ layout: default
 title: Kalender
 ---
 # Reserveringen 2022
-![Calendar]({{ site.baseurl }}/assets/calendar.png)
-
-Calendar created with [VUE Material](https://github.com/nono1526/vue-material-year-calendar/)
+![Calendar1]({{ site.baseurl }}/assets/calendar1.png)
+  
+    
+![Calendar2]({{ site.baseurl }}/assets/calendar2.png)
