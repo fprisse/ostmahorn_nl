@@ -10,8 +10,8 @@ title: Tarieven
 |                         |  Week   | Midweek | Weekend |
 | ----------------------- | :-----: | :-----: | :-----: |
 |                         | za-za   | ma-vry  | vrij-zo |
-| Juni, Juli en Augustus  | €1400  |  €900   |  €500   |
-| Rest van het jaar       |  €800   |  €500   |  €300   |
+| Juni, Juli en Augustus  | €1400  |  €800   |  €500   |
+| Rest van het jaar       |  €800   |  €400   |  €300   |
 |                         |         |         |         |
 | Aankomst                | 10:00   |  10:00  |  17:00  |
 | Vertrek                 | 19:00   |  15:00  |  19:00  |
