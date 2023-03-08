@@ -6,14 +6,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Windmeting en -verwachting</title>
-    <link REL="stylesheet" TYPE="text/css" HREF="<!doctype html>
-<html lang="nl">
-
-<head>
-    <meta author="Werner Kramer VORtech">
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Windmeting en -verwachting</title>
     <link REL="stylesheet" TYPE="text/css" HREF="https://waterberichtgeving.rws.nl/wbviewer/javascripts/wbcharts/wb-charts.css">
 <style>
 
@@ -252,7 +244,7 @@ pointer-events: none;
   <body>
 
     <h3 class='wbviewer spectra'>
-        Meetpaal Haven Lauwersoog   </h3>
+        Meetpaal - Haven Lauwersoog    </h3>
     <div id="chart-wind-rose"></div>
     <div id="wind-gauges">
       <span id="slider-datetime"> -</span>
@@ -277,9 +269,9 @@ pointer-events: none;
     </div>
 
 
-      <script type="text/javascript" nonce="e4ed315d26c9719b55f46a58c9ec18d229ab7c8feae250f71171883c0b67b0d4592538d33d9dd0531c2d59f5eb874652134d04db2b0d803639ae5bc70097ac21">
+      <script type="text/javascript" nonce="5c397c2b2dda829147720aa0f6eb2a7f8e747d67fb5c5d6e392eae2503ca8f968400c838eb86db81aca3e830c59075df4b31cc1b076736ebd87fbb7fad347ffe">
 
-        var basedir = "/wbviewer";
+        var basedir = "https://waterberichtgeving.rws.nl/wbviewer";
         var meting_series = "WN_S_1.2-5";
         var verwachting_series = "WN_knmi_6.1-2";
         var spreiding_series = "wns_S_1.5-8";
@@ -843,7 +835,7 @@ pointer-events: none;
       setInterval( function() {get_wind_data(updateRequestUrl (basedir, meting_series, verwachting_series, spreiding_series, loc));}, dataRefreshInterval);
 
     </script>
-    <script type="text/javascript" nonce="e4ed315d26c9719b55f46a58c9ec18d229ab7c8feae250f71171883c0b67b0d4592538d33d9dd0531c2d59f5eb874652134d04db2b0d803639ae5bc70097ac21">
+    <script type="text/javascript" nonce="5c397c2b2dda829147720aa0f6eb2a7f8e747d67fb5c5d6e392eae2503ca8f968400c838eb86db81aca3e830c59075df4b31cc1b076736ebd87fbb7fad347ffe">
         $(document).ready(function(){
             $("#slider-reset-button").click(function(el){
                 resetTimeSlider(timesdata, true);
